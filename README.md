@@ -1,71 +1,57 @@
-# 👋 Hey there, I'm **Fahad Bhatt**
-
-🚀 A passionate **Flutter Developer** who turns ideas into beautiful, high-performance mobile apps.
-
-💙 I love building elegant, UI-rich applications using **Flutter**, managing state seamlessly with **GetX**, and integrating powerful backends with **Firebase**.
-
-🛠️ Always learning, always coding — let’s connect and build something awesome together!
-
----
-
-## ✉️ Get in Touch  
-**Ready to collaborate or need help with your next big idea?**  
-📩 Reach out at [fahadbhatt41@gmail.com](mailto:fahadbhatt41@gmail.com) — I’d love to hear from you! 😊🚀
-
----
-
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4lfahad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BhattFahad)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Fahadbhatt)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadbhatt41@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GetX](https://img.shields.io/badge/GetX-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=fahadbhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=fahadbhatt&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F3C,100:2A6F97&height=180&section=header&text=Fahad%20Bhatt&fontSize=44&fontColor=F5F3EE&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Android%20%C2%B7%20iOS%20%C2%B7%20Desktop&descAlignY=62&descSize=16&descColor=F4C869" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=0D1F3C&center=true&vCenter=true&width=600&lines=Building+with+Flutter+%2B+GetX+%2B+Firebase;Shipped+5%2B+production+apps;Open+to+Remote+Roles" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1F3C?style=for-the-badge&logo=googlechrome&logoColor=F4C869)](https://portfolio.fahadbhatt.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F3C?style=for-the-badge&logo=linkedin&logoColor=F4C869)](https://linkedin.com/in/bhatt-fahad)
+[![Email](https://img.shields.io/badge/Email-0D1F3C?style=for-the-badge&logo=gmail&logoColor=F4C869)](mailto:fahadbhatt41@gmail.com)
+
 </div>
 
----
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=fahadbhatt&icon=2&color=0)](https://visitcount.itsvg.in)
+I build cross-platform apps with Flutter, GetX, and Firebase — from Figma to production, shipped on Android, iOS, and desktop. Currently at Emaad Infotech, working across education, healthcare, retail, and dating/matrimony products.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## Some things I've built
+
+**Gold Kart** — Jewellery store app with live gold/silver rates and a Razorpay-powered monthly installment scheme.
+
+**School Management Platform** — Three separate apps (Parent, Teacher, Driver) covering attendance, fees, and live GPS bus tracking.
+
+**Mawaddah** — Islamic dating app, Tinder-style swiping and matching with live chat.
+
+**TruckSand** — Offline-first Android app for quarry management, syncs automatically once it picks up a connection.
+
+**Fresh Mart** — Grocery delivery app with the full ordering flow, cash-on-delivery.
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,androidstudio,figma,git,github&theme=light" />
+</div>
+
+<br>
+
+**State management:** GetX, Provider, Riverpod
+<br>
+**Storage:** Hive, SQLite, SharedPreferences
+<br>
+**Services:** Razorpay, OneSignal, Branch.io, Shorebird Code Push
+
+<br>
+
+<div align="center">
+<sub>Open to remote Flutter roles — feel free to reach out if you're hiring or want to talk Flutter/Firebase.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A6F97,100:0D1F3C&height=100&section=footer" width="100%"/>
